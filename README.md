@@ -4,5 +4,9 @@
 Welcome to Morti Macro this is going to be a well indepth program used to have fun and automate this within FiveM!
 
 
+Please look at the releases tab and download from there thank you!!
+
+
+
 
 
